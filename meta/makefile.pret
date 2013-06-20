@@ -1,0 +1,8 @@
+# This file provides instructions for packaging.
+
+`MooseX-ClosedHash`
+	perl_version_from m`MooseX::ClosedHash`;
+	version_from      m`MooseX::ClosedHash`;
+	readme_from       m`MooseX::ClosedHash` ;
+	.
+
