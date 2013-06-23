@@ -4,7 +4,7 @@ use 5.008;
 
 BEGIN {
 	$MooseX::ClosedHash::AUTHORITY = 'cpan:TOBYINK';
-	$MooseX::ClosedHash::VERSION   = '0.001';
+	$MooseX::ClosedHash::VERSION   = '0.002';
 }
 
 use Moose ();

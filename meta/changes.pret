@@ -4,3 +4,9 @@
 	issued  2013-06-20;
 	label   "Initial release".
 
+`MooseX-ClosedHash 0.002 cpan:TOBYINK`
+	issued  2013-06-23;
+	changeset [
+		item "Add dependency on Moose. (Duh!)"^^Packaging;
+		item "Slightly improved test cases."^^Packaging;
+	].
