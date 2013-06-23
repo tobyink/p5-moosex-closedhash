@@ -3,6 +3,7 @@
 `MooseX-ClosedHash`
 	perl_version_from m`MooseX::ClosedHash`;
 	version_from      m`MooseX::ClosedHash`;
-	readme_from       m`MooseX::ClosedHash` ;
+	readme_from       m`MooseX::ClosedHash`;
+	requires          p`Moose 2.0400`;
 	.
 
