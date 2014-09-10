@@ -2,7 +2,7 @@ package MooseX::ClosedHash::Meta::Instance;
 
 BEGIN {
 	$MooseX::ClosedHash::Meta::Instance::AUTHORITY = 'cpan:TOBYINK';
-	$MooseX::ClosedHash::Meta::Instance::VERSION   = '0.002';
+	$MooseX::ClosedHash::Meta::Instance::VERSION   = '0.003';
 }
 
 use Moose::Role;
